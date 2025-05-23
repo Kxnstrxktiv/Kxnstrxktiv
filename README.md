@@ -1,6 +1,5 @@
-Hi, I am Sebastian or Sebby.   
+Hi, I am Sebastian or Sebby for short.   
 
-My main goal is that every person on earth understands Batch bacause its very easy to use.   
-I also like to Tweak Windows so it runs smoother while not affecting your security in a negative way.   
+I like to Tweak Windows to run more smoothly while not affecting your security in a negative way.   
 
 Currently working on my own Tweaking Utility.   
